@@ -1,5 +1,5 @@
 # Minishell
-Minishell est le 1er projet du Shell programming d'Epitech
+Minishell est le 1er projet du Shell programming d'Epitech.
 
 Ce projet à pour but de recréer un shell basique.
 
