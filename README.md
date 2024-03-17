@@ -7,7 +7,7 @@ Ce qui est demandé dans ce projet c'est de pouvoir lancer les binaires des comm
 
 ============================================
 
-Tableau de score inspiré de celui de Nekory :
+Tableau de score inspiré de celui de [Nekory](https://github.com/Nekory23) :
 
 | Category                               | Percentage | Tests     | Crash ? |
 |----------------------------------------|------------|-----------|---------|
